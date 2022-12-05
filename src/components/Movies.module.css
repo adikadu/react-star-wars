@@ -1,0 +1,21 @@
+.movie-list {
+  list-style: none;
+}
+
+.movie {
+  background-color: blueviolet;
+  margin-bottom: 0.8rem;
+  border-radius: 11px;
+  padding: 0.8rem;
+}
+
+.movie h3 {
+  font-size: 1.8rem;
+  color: rgb(185, 241, 71);
+  margin-bottom: 1rem;
+}
+
+.movie p {
+  font-size: 1.2rem;
+  color: #fff;
+}
